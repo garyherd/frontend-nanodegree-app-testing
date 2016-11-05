@@ -13,4 +13,4 @@ This will allow you to run the page on your local machine.
 
 ## Attributions
 * [Jasmine testing framework](https://github.com/jasmine/jasmine)
-* [Some snippets of from Udacity Forums](https://discussions.udacity.com/t/step-16-write-a-test-that-ensures-when-a-new-feed-is-loaded-by-the-loadfeed-function-that-the-content-actually-changes/20810/8)
+* [Some code snippets from Udacity Forums](https://discussions.udacity.com/t/step-16-write-a-test-that-ensures-when-a-new-feed-is-loaded-by-the-loadfeed-function-that-the-content-actually-changes/20810/8)
